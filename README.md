@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# struntho: a Python library for structured prediction
-=======
 # Max-Min Margin Markov Networks (M<sup>4</sup>Ns)
 Code accompanying [Consistent Structured Prediction with Max-Min Margin Markov Networks](https://arxiv.org/pdf/2007.01012.pdf) published at ICML 2020
 
@@ -39,4 +36,3 @@ As an example:
 ```
 python main.py --task multiclass --model m4n --dataset segment --add_bias --cython --reg 0.001 --check_dual_every 10 --iter_oracle 20 --kernel --epochs 101
 ```
->>>>>>> fe3aef032eca408eafc16470a170e34dd6c4e3e0
