@@ -1,1 +1,1 @@
-# maxminloss
+# Max-Min Margin Markov Networks
