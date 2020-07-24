@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# struntho: a Python library for structured prediction
-=======
 # Max-Min Margin Markov Networks (M<sup>4</sup>Ns)
 Code accompanying [Consistent Structured Prediction with Max-Min Margin Markov Networks](https://arxiv.org/pdf/2007.01012.pdf) published at ICML 2020
 
