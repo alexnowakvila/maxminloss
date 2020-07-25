@@ -35,6 +35,12 @@ Contributions:
 
 ## Run the Code
 
+### Requirements
+
+- Computer with Linux or OSX
+- Python 3.7.7 + some traditional packages
+- Cython 0.29.15+ (used for fast inference)
+
 ### Get datasets folder 
 
 Get the datasets for multi-class classification, ordinal regression, sequence prediction and ranking:
