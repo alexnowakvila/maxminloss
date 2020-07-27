@@ -72,3 +72,6 @@ As an example:
 ```
 python main.py --task multiclass --model m4n --dataset segment --add_bias --cython --reg 0.001 --check_dual_every 10 --iter_oracle 20 --kernel --epochs 101
 ```
+
+### Author
+- Alex Nowak-Vila, 2020.
